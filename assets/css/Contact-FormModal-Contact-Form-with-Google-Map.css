@@ -1,6 +1,9 @@
 .static-map {
   margin-bottom:20px;
 }
+#contact-container {
+	padding: 50px;
+}
 
 @media (max-width: 768px) and (min-width: 767px) {
   #contactForm .static-map img {
