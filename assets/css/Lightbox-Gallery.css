@@ -44,18 +44,17 @@
   margin-top:50px;
 }
 
-.container {
+
+
+#contact-container {
+  background-color:#eef4f7;
 }
 
 #contact-container {
-  background-color:slategrey;
-}
-
-#contact-container {
-  color:white;
+  color:black;
 }
 
 .contact-header {
-  color:white;
+  color:black;
 }
 

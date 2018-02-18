@@ -1,11 +1,16 @@
 .features-boxed {
-  color:#313437;
-  background-color:#eef4f7;
+  color:white;
+  background-color:black;
 }
+#white-me{
+  color: white;
+}
+
 
 .features-boxed p {
   color:#7d8285;
 }
+
 
 .features-boxed h2 {
   font-weight:bold;
