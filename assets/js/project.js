@@ -18,7 +18,7 @@ $(".contact").click(function() {
 
     $('html, body').animate({
         scrollTop: $("#contact-container").offset().top
-    }, 1000);
+    }, 1500);
 });
 
 $(".gallery").click(function() {
@@ -29,7 +29,7 @@ $(".gallery").click(function() {
 
     $('html, body').animate({
         scrollTop: $("#gallery").offset().top
-    }, 1000);
+    }, 1500);
 });
 $(".home").click(function() {
 	event.preventDefault() 
@@ -40,5 +40,5 @@ $(".home").click(function() {
 
     $('html, body').animate({
         scrollTop: $("#carousel-example-generic").offset().top
-    }, 1000);
+    }, 1500);
 });
