@@ -9,5 +9,8 @@
   #contactForm .static-map img {
     width:100%;
   }
+  #contact-container {
+	padding: 10px;
+}
 }
 
