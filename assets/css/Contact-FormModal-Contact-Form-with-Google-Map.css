@@ -1,9 +1,7 @@
 .static-map {
   margin-bottom:20px;
 }
-#contact-container {
-	padding: 50px;
-}
+
 
 @media (max-width: 768px) and (min-width: 767px) {
   #contactForm .static-map img {
@@ -12,10 +10,10 @@
  
 }
 
-@media only screen and (max-width: 667px) {
+@media only screen and (min-width: 667px) {
     
 	#contact-container {
-	padding: 10px;
+	padding: 50px;
 }
 }
 
