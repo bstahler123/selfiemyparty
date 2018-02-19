@@ -9,7 +9,12 @@
   #contactForm .static-map img {
     width:100%;
   }
-  #contact-container {
+ 
+}
+
+@media only screen and (max-width: 667px) {
+    
+	#contact-container {
 	padding: 10px;
 }
 }
